@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Documento sin título</title>
+<title>Hebocon Valencia</title>
 <style type="text/css">
 body {
 	background-color: #02F500;
@@ -21,7 +21,7 @@ body {
 <h2 style="font-size: x-large"><strong style="font-size: xx-large; font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif;">HEBOCON VALENCIA</strong></h2>
 <p><strong style="font-size: large">COMUNIDAD</strong></p>
 <table width="92%" border="0" cellspacing="40">
-  <tbody>
+  <tbody BGCOLOR="#02F500">
     <tr>
       <td width="19%"><img src="logo01.gif" width="211" height="211" alt=""/></td>
       <td width="66%"><p style="font-family: Consolas, 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', Monaco, 'Courier New', monospace; font-size: small; text-align: center; font-style: normal; font-weight: bold;">PREGUNTAS Y RESPUESTAS</p>
