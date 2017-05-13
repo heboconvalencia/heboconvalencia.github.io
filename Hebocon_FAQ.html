@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -53,5 +52,5 @@ body {
   </tbody>
 </table>
 <p>&nbsp;</p>
-</body>
+</BODY>
 </html>
